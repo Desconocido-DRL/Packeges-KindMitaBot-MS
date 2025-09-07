@@ -8,7 +8,7 @@ Los Packages Adicionales son módulos complementarios que puedes instalar en el 
 
 ## 📚 Package Disponible
 
-🤖 Lumi AI Prompt
+🤖 AI Models 
 
-lumi-ai - Integración completa con Lumi AI para conversaciones dinámicas con prompt visual web
+LuminAI - Integración completa con Lumi AI para conversaciones dinámicas con prompt visual web
 
